@@ -2,7 +2,7 @@
   "name": "tpf-e2e-heatmap",
   "version": "1.0.0",
   "description": "Testing e2e, site survey methods, reports, recording, heatmaps.",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "start": "node app.js",
     "test": "cypress run"
